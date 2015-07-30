@@ -1,5 +1,13 @@
 require "foobarac5/version"
 
 module Foobarac5
-  # Your code goes here...
+
+  class Demo
+
+    def say
+      "ihower"
+    end
+
+  end
+
 end
